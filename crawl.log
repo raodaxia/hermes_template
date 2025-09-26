@@ -1,0 +1,117 @@
+2025-09-25 15:07:35,682 - INFO - 保存完成: https://www.bing.com -> www.bing.com.html
+2025-09-25 15:07:36,268 - INFO - 保存完成: https://cn.bing.com -> cn.bing.com.html
+2025-09-25 15:07:36,268 - INFO - 保存完成: https://www.baidu.com -> www.baidu.com.html
+2025-09-25 15:07:38,108 - INFO - 保存完成: https://www.163.com -> www.163.com.html
+2025-09-25 15:07:44,682 - INFO - 保存完成: https://www.sina.com.cn -> www.sina.com.cn.html
+2025-09-25 15:07:45,709 - INFO - 爬取完成 - 总耗时: 24.86 秒
+2025-09-25 15:07:45,709 - INFO - 成功: 5 个, 失败: 0 个
+2025-09-25 15:56:10,759 - INFO - 待处理URL数量: 2, 已完成: 0
+2025-09-25 15:56:26,616 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/mocassins-paris-H242899ZA01390/ -> H242899ZA013.html
+2025-09-25 15:56:30,111 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/mocassins-honore-H232902ZAF7400/ -> H232902ZAF74.html
+2025-09-25 15:56:31,138 - INFO - 爬取完成 - 总耗时: 20.38 秒
+2025-09-25 15:56:31,139 - INFO - 成功: 2 个, 失败: 0 个
+2025-09-25 16:01:23,211 - INFO - 待处理URL数量: 0, 已完成: 2
+2025-09-25 16:01:24,212 - INFO - 爬取完成 - 总耗时: 1.00 秒
+2025-09-25 16:01:24,212 - INFO - 成功: 0 个, 失败: 0 个
+2025-09-25 16:01:38,840 - INFO - 待处理URL数量: 2, 已完成: 0
+2025-09-25 16:01:55,144 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/mocassins-paris-H242899ZA01390/ -> H242899ZA013.html
+2025-09-25 16:01:55,493 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/mocassins-honore-H232902ZAF7400/ -> H232902ZAF74.html
+2025-09-25 16:01:56,508 - INFO - 爬取完成 - 总耗时: 17.67 秒
+2025-09-25 16:01:56,508 - INFO - 成功: 2 个, 失败: 0 个
+2025-09-25 16:05:48,703 - INFO - 待处理URL数量: 2, 已完成: 0
+2025-09-25 16:06:04,532 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/mocassins-paris-H242899ZA01390/ -> H242899ZA013.html
+2025-09-25 16:06:07,939 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/mocassins-honore-H232902ZAF7400/ -> H232902ZAF74.html
+2025-09-25 16:06:08,980 - INFO - 爬取完成 - 总耗时: 20.28 秒
+2025-09-25 16:06:08,981 - INFO - 成功: 2 个, 失败: 0 个
+2025-09-25 16:08:37,512 - INFO - 待处理URL数量: 0, 已完成: 2
+2025-09-25 16:08:38,510 - INFO - 爬取完成 - 总耗时: 1.00 秒
+2025-09-25 16:08:38,510 - INFO - 成功: 0 个, 失败: 0 个
+2025-09-25 16:08:48,898 - INFO - 待处理URL数量: 2, 已完成: 0
+2025-09-25 16:16:05,585 - INFO - 待处理URL数量: 2, 已完成: 0
+2025-09-25 16:16:32,962 - ERROR - 未检测到h1元素，可能被封禁，URL: https://www.hermes.com/fr/fr/product/mocassins-honore-H232902ZAF7400/
+2025-09-25 16:16:32,963 - ERROR - 爬取失败: https://www.hermes.com/fr/fr/product/mocassins-honore-H232902ZAF7400/, 错误: 访问被禁止，未找到h1元素
+2025-09-25 16:16:32,974 - ERROR - 爬取失败: https://www.hermes.com/fr/fr/product/mocassins-paris-H242899ZA01390/, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.18
+2025-09-25 16:17:01,114 - INFO - 待处理URL数量: 2, 已完成: 0
+2025-09-25 16:17:27,469 - ERROR - 爬取失败: https://www.hermes.com/fr/fr/product/mocassins-paris-H242899ZA01390/, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.18
+2025-09-25 16:17:27,671 - ERROR - 爬取失败: https://www.hermes.com/fr/fr/product/mocassins-honore-H232902ZAF7400/, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.18
+2025-09-25 16:17:29,473 - ERROR - 爬取失败: https://www.hermes.com/fr/fr/product/mocassins-paris-H242899ZA01390/, 错误: HTTPConnectionPool(host='127.0.0.1', port=9222): Max retries exceeded with url: /json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1088c7790>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-09-25 16:17:29,678 - ERROR - 爬取失败: https://www.hermes.com/fr/fr/product/mocassins-honore-H232902ZAF7400/, 错误: HTTPConnectionPool(host='127.0.0.1', port=9222): Max retries exceeded with url: /json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1088c7df0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-09-25 16:17:31,480 - ERROR - 爬取失败: https://www.hermes.com/fr/fr/product/mocassins-paris-H242899ZA01390/, 错误: HTTPConnectionPool(host='127.0.0.1', port=9222): Max retries exceeded with url: /json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x158fd4160>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-09-25 16:17:31,684 - ERROR - 爬取失败: https://www.hermes.com/fr/fr/product/mocassins-honore-H232902ZAF7400/, 错误: HTTPConnectionPool(host='127.0.0.1', port=9222): Max retries exceeded with url: /json (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x158fd4490>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-09-25 16:18:46,750 - INFO - 待处理URL数量: 2, 已完成: 0
+2025-09-25 16:19:54,064 - ERROR - 未检测到h1元素，可能被封禁，URL: https://www.hermes.com/fr/fr/product/mocassins-paris-H242899ZA01390/
+2025-09-25 16:19:54,065 - ERROR - 爬取失败: https://www.hermes.com/fr/fr/product/mocassins-paris-H242899ZA01390/, 错误: 访问被禁止，未找到h1元素
+2025-09-25 16:20:19,024 - ERROR - 未检测到h1元素，可能被封禁，URL: https://www.hermes.com/fr/fr/product/mocassins-paris-H242899ZA01390/
+2025-09-25 16:20:19,025 - ERROR - 爬取失败: https://www.hermes.com/fr/fr/product/mocassins-paris-H242899ZA01390/, 错误: 访问被禁止，未找到h1元素
+2025-09-25 16:33:10,561 - INFO - 待处理URL数量: 2, 已完成: 0
+2025-09-25 16:33:37,902 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/mocassins-paris-H242899ZA01390/ -> H242899ZA013.html
+2025-09-25 16:33:59,517 - ERROR - 爬取失败: https://www.hermes.com/fr/fr/product/mocassins-honore-H232902ZAF7400/, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.18
+2025-09-25 16:35:29,629 - INFO - 待处理URL数量: 1, 已完成: 1
+2025-09-25 16:35:57,404 - ERROR - 爬取失败: https://www.hermes.com/fr/fr/product/mocassins-honore-H232902ZAF7400/, 错误: 
+与页面的连接已断开。
+版本: 4.1.0.18
+2025-09-25 16:39:07,683 - INFO - 待处理URL数量: 1, 已完成: 1
+2025-09-25 16:40:40,882 - INFO - 待处理URL数量: 1, 已完成: 1
+2025-09-25 16:41:27,625 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/mocassins-honore-H232902ZAF7400/ -> H232902ZAF74.html
+2025-09-25 16:41:28,691 - INFO - 爬取完成 - 总耗时: 47.81 秒
+2025-09-25 16:41:28,691 - INFO - 成功: 1 个, 失败: 0 个
+2025-09-26 10:24:15,884 - INFO - 待处理URL数量: 48, 已完成: 0
+2025-09-26 10:31:21,510 - INFO - 待处理URL数量: 48, 已完成: 0
+2025-09-26 10:32:07,729 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/tunique-classique-imprime-palefroi-remix-H5H0635DLIX38/ -> H5H0635DLIX3.html
+2025-09-26 10:32:23,016 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/t-shirt-droit-imprime-palefroi-remix-H5H4628DSIX40/ -> H5H4628DSIX4.html
+2025-09-26 10:32:39,379 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/chemise-classique-imprime-palefroi-remix-H5H0628DLIX34/ -> H5H0628DLIX3.html
+2025-09-26 10:32:57,517 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/t-shirt-droit-imprime-palefroi-remix-H5H4628DS9034/ -> H5H4628DS903.html
+2025-09-26 10:33:14,573 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/chemise-ample-H4H0601DVCG40/ -> H4H0601DVCG4.html
+2025-09-26 10:33:29,712 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/t-shirt-maxi-brode-H5H4625DC6L34/ -> H5H4625DC6L3.html
+2025-09-26 10:33:44,935 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/chemise-ample-H4H0601DV9036/ -> H4H0601DV903.html
+2025-09-26 10:34:01,140 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/t-shirt-maxi-brode-H5H4625DC9036/ -> H5H4625DC903.html
+2025-09-26 10:34:14,743 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/t-shirt-maxi-imprime-palefroi-remix-H5H4639DX9036/ -> H5H4639DX903.html
+2025-09-26 10:34:33,270 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/t-shirt-droit-cartouche-H5H4632DC9036/ -> H5H4632DC903.html
+2025-09-26 10:34:46,712 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/chemise-ample-H4H0601DV6L34/ -> H4H0601DV6L3.html
+2025-09-26 10:35:04,304 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/t-shirt-droit-cartouche-H5H4629DAIE38/ -> H5H4629DAIE3.html
+2025-09-26 10:35:16,311 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/t-shirt-droit-poche-brodee-H4H4615DAIE38/ -> H4H4615DAIE3.html
+2025-09-26 10:35:32,994 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/t-shirt-maxi-brode-H5H4625DC5D34/ -> H5H4625DC5D3.html
+2025-09-26 10:35:47,995 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/chemise-micro-H4H0600DV9034/ -> H4H0600DV903.html
+2025-09-26 10:36:05,226 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/chemise-ample-H4H0601DV5D34/ -> H4H0601DV5D3.html
+2025-09-26 10:36:19,808 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/t-shirt-droit-imprime-palefroi-remix-H5H4628DS0836/ -> H5H4628DS083.html
+2025-09-26 10:36:37,865 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/tunique-classique-imprime-palefroi-remix-H5H0635DL0836/ -> H5H0635DL083.html
+2025-09-26 10:36:50,719 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/t-shirt-droit-poche-brodee-H4H4615DA9034/ -> H4H4615DA903.html
+2025-09-26 10:37:08,686 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/tunique-classique-imprime-candy-libris-bandana-H5H0645DJET38/ -> H5H0645DJET3.html
+2025-09-26 10:37:24,418 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/blouse-imprime-candy-libris-bandana-H5H0636DJET34/ -> H5H0636DJET3.html
+2025-09-26 10:37:38,649 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/t-shirt-maxi-brode-H5H4625DC3L34/ -> H5H4625DC3L3.html
+2025-09-26 10:37:52,662 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/t-shirt-droit-poche-brodee-H4H4615DA8J36/ -> H4H4615DA8J3.html
+2025-09-26 10:38:08,242 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/t-shirt-droit-poche-brodee-H4H4615DAEL36/ -> H4H4615DAEL3.html
+2025-09-26 10:38:20,892 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/t-shirt-droit-cartouche-H5H4629DAGO38/ -> H5H4629DAGO3.html
+2025-09-26 10:38:35,683 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/t-shirt-droit-cartouche-H5H4629DA9034/ -> H5H4629DA903.html
+2025-09-26 10:38:53,626 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/t-shirt-droit-cartouche-H5H4629DA5H34/ -> H5H4629DA5H3.html
+2025-09-26 10:39:07,231 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/chemise-col-tresse-H5H0622DA0236/ -> H5H0622DA023.html
+2025-09-26 10:39:23,127 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/chemise-brodee-H5H0633D1IT34/ -> H5H0633D1IT3.html
+2025-09-26 10:39:38,821 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/tunique-classique-imprime-palefroi-remix-H5H0635DLIT34/ -> H5H0635DLIT3.html
+2025-09-26 10:39:53,733 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/chemise-classique-imprime-palefroi-remix-H5H0628DLIT34/ -> H5H0628DLIT3.html
+2025-09-26 10:40:07,445 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/surchemise-reversible-imprime-palefroi-remix-H5H0164DWIT34/ -> H5H0164DWIT3.html
+2025-09-26 10:40:23,361 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/t-shirt-droit-cartouche-H5H4632DC3L36/ -> H5H4632DC3L3.html
+2025-09-26 10:40:39,638 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/t-shirt-maxi-brode-H5H4625DC0236/ -> H5H4625DC023.html
+2025-09-26 10:40:53,726 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/blouse-inspiration-vareuse-twillaine-imprime-palefroi-remix-H5H2835DXIX34/ -> H5H2835DXIX3.html
+2025-09-26 10:41:10,448 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/blouse-inspiration-vareuse-twillaine-imprime-palefroi-remix-H5H2835DXIT36/ -> H5H2835DXIT3.html
+2025-09-26 10:41:25,244 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/chemise-masculine-imprime-palefroi-remix-H5H0646DSTL34/ -> H5H0646DSTL3.html
+2025-09-26 10:41:39,513 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/chemise-masculine-imprime-palefroi-remix-H5H0646DSIT34/ -> H5H0646DSIT3.html
+2025-09-26 10:41:55,006 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/tunique-classique-imprime-palefroi-remix-H5H0635DLTL42/ -> H5H0635DLTL4.html
+2025-09-26 10:42:12,405 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/blouse-sans-manches-asymetrique-drapee-imprime-palefroi-remix-H5H0639DLIX34/ -> H5H0639DLIX3.html
+2025-09-26 10:42:29,911 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/blouse-sans-manches-asymetrique-drapee-imprime-palefroi-remix-H5H0639DLIT36/ -> H5H0639DLIT3.html
+2025-09-26 10:42:46,519 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/t-shirt-maxi-imprime-palefroi-remix-H5H4639DX0234/ -> H5H4639DX023.html
+2025-09-26 10:43:02,383 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/t-shirt-droit-cartouche-H5H4632DC0236/ -> H5H4632DC023.html
+2025-09-26 10:43:16,335 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/t-shirt-droit-imprime-palefroi-remix-H5H4628DSIT36/ -> H5H4628DSIT3.html
+2025-09-26 10:43:31,121 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/t-shirt-micro-imprime-dressage-tressage-H5H4609DJID34/ -> H5H4609DJID3.html
+2025-09-26 10:43:45,717 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/t-shirt-micro-imprime-dressage-tressage-H5H4609DJI534/ -> H5H4609DJI53.html
+2025-09-26 10:44:01,579 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/chemise-ample-H4H0601DVIB34/ -> H4H0601DVIB3.html
+2025-09-26 10:44:17,647 - INFO - 保存完成: https://www.hermes.com/fr/fr/product/chemise-ample-H4H0601DV0234/ -> H4H0601DV023.html
+2025-09-26 10:44:18,724 - INFO - 爬取完成 - 总耗时: 777.21 秒
+2025-09-26 10:44:18,724 - INFO - 成功: 48 个, 失败: 0 个
