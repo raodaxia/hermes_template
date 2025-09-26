@@ -1,7 +1,7 @@
 from pathlib import Path
 import json
 import pandas as pd
-    
+from loguru import logger
     
 sku = "H011682UK05 | H075406CANB110"
 sku2 = "H242899ZA01390"
@@ -28,6 +28,7 @@ def generate_norepeat_sku(file_path: str) -> None:
     # 对mpn列去重
     df_unique = df.drop_duplicates(subset=['mpn'])
     df_unique.to_excel("unique_sku.xlsx", index=False)  
+ 
 
 def process_json_files(root_dir: str, handler):
     """
@@ -45,11 +46,12 @@ def process_json_files(root_dir: str, handler):
         try:
             with open(json_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
+                # 处理解析的数据
                 handler(data)
         except json.JSONDecodeError:
-            print(f"❌ JSON解析错误: {json_path}")
+            logger.error(f"❌ JSON解析错误: {json_path}")
         except Exception as e:
-            print(f"❌ 处理文件出错 {json_path}: {e}")
+            logger.error(f"❌ 处理文件出错 {json_path}: {e}")
 
 #  调用示例
 # generate_norepeat_sku("/Users/raodaxia/Documents/update_spus/2025年09月26日/副本out.xlsx") 
